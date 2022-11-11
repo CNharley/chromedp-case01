@@ -1,6 +1,8 @@
 # chromedp-case01
 
 这是基于chromedp编写的使用case,里面使用到的内容基本能满足日常需求,现在对外开源 提供给大家参考
+
+---
 (Based on the automated playback project of the School of Continuing Education, Jilin University of Finance and Economics)
 
 ## 涉及到的知识点:
@@ -15,4 +17,4 @@
 
 ## 郑重声明
 
-这个case 仅供学习交流,严禁用于商业用途
+仅供学习交流,严禁用于商业用途
